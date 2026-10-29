@@ -1,5 +1,7 @@
 # 🛒 Proyecto Canasta SEPA (`sepa-lakehouse-ml`)
 
+> El proyecto se encuentra todavía en desarrollo en un repositorio privado. Para consultas a la documentación o el repositorio completo escriba al autor Emiliano Santis al siguiente mail: emilianodavid.santis@gmail.com
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-1.0+-yellow.svg)](https://duckdb.org/)
