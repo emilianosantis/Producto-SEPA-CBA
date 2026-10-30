@@ -17,8 +17,10 @@ Bienvenido al proyecto **Canasta SEPA**, una plataforma integral de Data Lakehou
 
 La documentación técnica del sistema está organizada de forma modular dentro del directorio [`docs/`](docs/):
 
-1. 🎯 [**00-vision-del-proyecto.md**](docs/00-vision-del-proyecto.md) — **Visión del Proyecto:** Contexto, problema, solución, objetivos, impacto y criterios de éxito.
-2. 📐 [**01-arquitectura-general.md**](docs/01-arquitectura-general.md) — **Visión Global:** Diagrama Mermaid.js interactivo, MLOps Model Registry, Patrón Join-Back y seguridad DW Read-Only.
+> A modo de presentación la visión y arquitectura del proyecto están visibles para consultar toda la documentación completa con el autor del repositorio 
+
+1. 🎯 [**00-vision-del-proyecto.md**](00-vision-del-proyecto.md) — **Visión del Proyecto:** Contexto, problema, solución, objetivos, impacto y criterios de éxito.
+2. 📐 [**01-arquitectura-general.md**](01-arquitectura-general.md) — **Visión Global:** Diagrama Mermaid.js interactivo, MLOps Model Registry, Patrón Join-Back y seguridad DW Read-Only.
 3. 📦 [**02-ingesta-bronce.md**](docs/02-ingesta-bronce.md) — **Faceta 1:** Microservicio downloader & INDEC parser, fuentes de datos SEPA y almacenamiento crudo en `data/1_bronze/`.
 4. ⚡ [**03-lakehouse-plata.md**](docs/03-lakehouse-plata.md) — **Faceta 2:** Procesamiento analítico con DuckDB, sanitización UTF-8, validación de EANs y almacenamiento en Parquet.
 5. 🧠 [**04-ml-clasificacion.md**](docs/04-ml-clasificacion.md) — **Faceta 2:** Pipeline ML/NLP en Cascada (N0-N3), Patrón Join-Back, Model Registry manifest ($F1 \ge 0.90$) y Feedback Loop desacoplado.
