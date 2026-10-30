@@ -17,7 +17,7 @@ Bienvenido al proyecto **Canasta SEPA**, una plataforma integral de Data Lakehou
 
 La documentación técnica del sistema está organizada de forma modular dentro del directorio [`docs/`](docs/):
 
-> A modo de presentación la visión y arquitectura del proyecto están visibles para consultar toda la documentación completa con el autor del repositorio 
+> A modo de presentación la visión y arquitectura del proyecto están visibles para, consultar toda la documentación completa comunicarse con el autor del repositorio 
 
 1. 🎯 [**00-vision-del-proyecto.md**](00-vision-del-proyecto.md) — **Visión del Proyecto:** Contexto, problema, solución, objetivos, impacto y criterios de éxito.
 2. 📐 [**01-arquitectura-general.md**](01-arquitectura-general.md) — **Visión Global:** Diagrama Mermaid.js interactivo, MLOps Model Registry, Patrón Join-Back y seguridad DW Read-Only.
